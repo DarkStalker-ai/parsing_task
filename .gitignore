@@ -1,0 +1,36 @@
+﻿# IDEs and editors
+.idea/
+.vscode/
+
+# Python cache and env
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.env
+*.env
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Django
+db.sqlite3
+
+# Logs
+*.log
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+
+# Other
+*.sqlite3
+
